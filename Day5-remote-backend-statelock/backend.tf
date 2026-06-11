@@ -6,3 +6,5 @@ terraform   {
         region = "us-east-1"
     }
 }
+
+#State lockfile : Terraform acquires a state lock to protect the state from being written by multiple users at the same time. Please resolve the issue above and try again0
